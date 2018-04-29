@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build artifacts
+build/
+target/
+*.DS_Store
